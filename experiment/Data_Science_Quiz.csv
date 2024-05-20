@@ -1,0 +1,8 @@
+,mcq,options,correct
+1,Which type of data analysis examines data to gain insights into what happened or what is happening in the data environment?,"{'a': 'Diagnostic analysis', 'b': 'Predictive analysis', 'c': 'Descriptive analysis', 'd': 'Prescriptive analysis'}",c
+2,What type of data analysis involves deep-dive or detailed examination to understand why something happened?,"{'a': 'Prescriptive analysis', 'b': 'Descriptive analysis', 'c': 'Diagnostic analysis', 'd': 'Predictive analysis'}",c
+3,Which type of data analysis uses historical data to make accurate forecasts about data patterns that may occur in the future?,"{'a': 'Descriptive analysis', 'b': 'Diagnostic analysis', 'c': 'Predictive analysis', 'd': 'Prescriptive analysis'}",c
+4,What type of data analysis suggests an optimum response to predicted outcomes?,"{'a': 'Prescriptive analysis', 'b': 'Descriptive analysis', 'c': 'Diagnostic analysis', 'd': 'Predictive analysis'}",a
+5,Which technique is used in prescriptive analytics to analyze the potential implications of different choices and recommend the best course of action?,"{'a': 'Machine learning', 'b': 'Forecasting', 'c': 'Pattern matching', 'd': 'Simulation'}",d
+6,What technique is used in predictive analysis to make accurate forecasts about data patterns that may occur in the future?,"{'a': 'Forecasting', 'b': 'Machine learning', 'c': 'Pattern matching', 'd': 'Predictive modeling'}",b
+7,"Which type of data analysis uses data visualizations such as pie charts, bar charts, and line graphs?","{'a': 'Descriptive analysis', 'b': 'Diagnostic analysis', 'c': 'Predictive analysis', 'd': 'Prescriptive analysis'}",a
