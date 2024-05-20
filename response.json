@@ -1,0 +1,22 @@
+{
+    "1":{"mcq":"question will be here",
+     "options": {
+            "a":"first option",
+            "b":"second option",
+            "c":"third option",
+            "d":"fourth option"
+        },
+    
+    "correct":"correct option"
+    },
+    "2":{"mcq":"question will be here",
+     "options": {
+            "a":"first option",
+            "b":"second option",
+            "c":"third option",
+            "d":"fourth option"
+        },
+    
+    "correct":"correct option"
+    }
+}
