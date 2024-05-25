@@ -3,9 +3,8 @@ import json
 import pandas as pd 
 import traceback
 from dotenv import load_dotenv
-from src.MCQgenerator.utils import read_file,get_table_data
-from src.MCQgenerator.logger import logging
-import PyPDF2
+from src.mcqgenerator.utils import read_file,get_table_data
+from src.mcqgenerator.logger import logging
 
 #importing necessary libraries from langchain
 from langchain.chat_models import ChatOpenAI

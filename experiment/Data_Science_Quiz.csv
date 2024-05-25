@@ -1,8 +1,8 @@
-,mcq,options,correct
-1,Which type of data analysis focuses on understanding why something happened?,"{'a': 'Descriptive analysis', 'b': 'Diagnostic analysis', 'c': 'Predictive analysis', 'd': 'Prescriptive analysis'}",b
-2,What type of data analysis uses historical data to make accurate forecasts about future data patterns?,"{'a': 'Descriptive analysis', 'b': 'Diagnostic analysis', 'c': 'Predictive analysis', 'd': 'Prescriptive analysis'}",c
-3,What type of analysis not only predicts what is likely to happen but also suggests an optimum response to that outcome?,"{'a': 'Descriptive analysis', 'b': 'Diagnostic analysis', 'c': 'Predictive analysis', 'd': 'Prescriptive analysis'}",d
-4,Which technique is characterized by data visualizations such as pie charts and bar charts?,"{'a': 'Drill-down', 'b': 'Data mining', 'c': 'Data discovery', 'd': 'Data visualizations'}",d
-5,What technique involves computers being trained to reverse engineer causality connections in the data?,"{'a': 'Machine learning', 'b': 'Forecasting', 'c': 'Pattern matching', 'd': 'Predictive modeling'}",a
-6,Which type of analysis involves deep-dive or detailed data examination to understand why something happened?,"{'a': 'Descriptive analysis', 'b': 'Diagnostic analysis', 'c': 'Predictive analysis', 'd': 'Prescriptive analysis'}",b
-7,"What technique uses graph analysis, simulation, and neural networks to suggest the best course of action based on predictive data?","{'a': 'Data mining', 'b': 'Prescriptive analytics', 'c': 'Complex event processing', 'd': 'Recommendation engines'}",b
+,MCQ,Choices,Correct Answer
+0,What type of data analysis examines data to gain insights into what happened or what is happening in the data environment?,a: Descriptive analysis | b: Diagnostic analysis | c: Predictive analysis | d: Prescriptive analysis,a
+1,Which type of data analysis involves a deep-dive or detailed examination to understand why something happened?,a: Descriptive analysis | b: Diagnostic analysis | c: Predictive analysis | d: Prescriptive analysis,b
+2,Which type of data analysis uses historical data to make accurate forecasts about data patterns that may occur in the future?,a: Descriptive analysis | b: Diagnostic analysis | c: Predictive analysis | d: Prescriptive analysis,c
+3,What type of data analysis suggests an optimum response to the predicted outcome?,a: Descriptive analysis | b: Diagnostic analysis | c: Predictive analysis | d: Prescriptive analysis,d
+4,Which technique is used in prescriptive analysis to recommend the best course of action?,a: Machine learning | b: Data mining | c: Forecasting | d: Neural networks,a
+5,What technique is used in predictive analysis to make accurate forecasts about future data patterns?,a: Data discovery | b: Pattern matching | c: Machine learning | d: Correlations,c
+6,What type of analysis would a flight booking service use to predict flight booking patterns for the coming year?,a: Descriptive analysis | b: Diagnostic analysis | c: Predictive analysis | d: Prescriptive analysis,c
